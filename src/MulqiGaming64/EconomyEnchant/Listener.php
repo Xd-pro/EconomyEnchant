@@ -8,7 +8,7 @@ use pocketmine\block\EnchantingTable;
 use pocketmine\event\Listener as PMListener;
 use pocketmine\event\player\PlayerInteractEvent;
 
-class Listener implements PMListener
+class Listener implements PMListener 
 {
     /** @var bool $enchantTable */
     private $enchantTable = true;
