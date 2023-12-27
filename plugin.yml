@@ -5,7 +5,6 @@ main: MulqiGaming64\EconomyEnchant\EconomyEnchant
 api: 5.0.0
 author: XanderID
 description: a EconomyEnchant Shop in UI
-mcpe-protocol: 589
 softdepend:
  - BedrockEconomy
  - VanillaEC
